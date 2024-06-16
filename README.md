@@ -3,7 +3,7 @@ The program adds these numbers to a stack using the push() method, and then sort
 Once this is completed the sorted stack is printed.
 
 **How to run the program:** Once you have downloaded the program, open the terminal and navigate to where it is stored.
-Then run the program by entering "java Stcks.java"
+Then run the program by entering "java Stcks.java".
 
 To learn more about the program, run "javadocs Stcks.java" in the terminal and navigate to the index.html file.
 
